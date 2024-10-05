@@ -4,8 +4,8 @@
 
 # Download the Files
 
-## &rarr; [01_setup_v1_0_2.exe](https://github.com/poody-tech/solana-volume-bot/releases/download/v1.0.2/01_setup_v1_0_2.exe)
-## &rarr; [02_run_bot_v1_0_2.exe](https://github.com/poody-tech/solana-volume-bot/releases/download/v1.0.2/02_run_bot_v1_0_2.exe)
+## &rarr; [01_setup_v1_0_3.exe](https://github.com/poody-tech/solana-volume-bot/releases/download/v1.0.3/01_setup_v1_0_3.exe)
+## &rarr; [02_run_bot_v1_0_3.exe](https://github.com/poody-tech/solana-volume-bot/releases/download/v1.0.3/02_run_bot_v1_0_3.exe)
 
 OR just head over to the [releases page](https://github.com/poody-tech/solana-volume-bot/releases) :)
 
